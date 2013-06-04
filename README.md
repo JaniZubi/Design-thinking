@@ -1,4 +1,4 @@
 Design-thinking
 ===============
 
-Design Thinking
+Design Thinking, tasting phase
